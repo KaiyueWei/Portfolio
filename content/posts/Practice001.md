@@ -28,7 +28,7 @@ curl -O https://missing.csail.mit.edu/2020/files/example-data.xml
 
 </person>
 ```
-![step0](portfolio/practice1_step0.gif)
+![step0](/portfolio/practice1_step0.gif)
 ## Step1: Macro to format a single element (register `e`)
 
 `go to line with <name>`
