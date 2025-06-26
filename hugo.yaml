@@ -25,8 +25,8 @@ params:
     title: "Hi, I'm Kaiyue."
     subtitle: |
       I am a Master's student passionate about systems.<br/>
-      Check out what I am doing <a href="/posts"><u><strong>now</strong></u></a>.<br/>
-      View my <a href="/projects"><u><strong>projects</strong></u></a> for some of my work.
+      Check out what I am doing <a href="posts"><u><strong>now</strong></u></a>.<br/>
+      View my <a href="projects"><u><strong>projects</strong></u></a> for some of my work.
     imageUrl: "profile.jpeg"
     imageTitle: "<itswky>"
     imageWidth: 120
