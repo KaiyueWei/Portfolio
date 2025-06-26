@@ -28,7 +28,7 @@ curl -O https://missing.csail.mit.edu/2020/files/example-data.xml
 
 </person>
 ```
-![practice1_step0.gif](/practice1_step0.gif)
+![practice1_step0.gif](practice1_step0.gif)
 ## Step1: Macro to format a single element (register `e`)
 
 `go to line with <name>`
@@ -57,7 +57,7 @@ C" `change to the end of the line`
 **q**  ` end the recording`
 
 
-![step1](/practice1_step1.gif)
+![step1](practice1_step1.gif)
 
 ## Step2: Macro to format a person (register p)
 
@@ -96,7 +96,7 @@ C" `change to the end of the line`
 **\<ESC>q**`exit to normal mode and end the recording`
 
 
-![step2](/practice1_step2.gif)
+![step2](practice1_step2.gif)
 ## Step3: Macro to format a person and go to next person (register q)
 
 **qq** `start recording register macro q
@@ -107,12 +107,12 @@ C" `change to the end of the line`
 
 **q** `end the recording`
 
-![step3](/practice1_step3.gif)
+![step3](practice1_step3.gif)
 ## Step4: Execute macros until end of the file
 
 **999@q**
 
-![step4](/practice1_step4.gif)
+![step4](practice1_step4.gif)
 
 
 
